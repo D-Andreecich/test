@@ -23,7 +23,3 @@ function compare_ends($arr) {
 
 echo compare_ends($sourceStrings);
        
-
-
-//        var_dump($arr[0][18]);
-//        var_dump($arr[0][strlen($arr[0])-1]);
